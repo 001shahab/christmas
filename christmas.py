@@ -609,7 +609,7 @@ def main():
             
             # Year display with pulsing effect
             pulse = 1 + 0.1 * math.sin(time_elapsed * 3)
-            year_text = "2 0 2 5"
+            year_text = "2 0 2 6"
             year_surf = title_font.render(year_text, True, COLORS['gold'])
             year_rect = year_surf.get_rect(center=(WIDTH // 2, 120))
             screen.blit(year_surf, year_rect)

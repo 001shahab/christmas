@@ -22,7 +22,7 @@ A stunning, magical Python animation celebrating the festive season with an eleg
 |-------|----------|-------------|
 | Christmas | 0-15s | Cozy Christmas scene with tree, snow, and occasional fireworks |
 | Transition | 15-18s | Smooth crossfade between holiday messages |
-| New Year | 18s+ | Celebratory fireworks display with "2025" |
+| New Year | 18s+ | Celebratory fireworks display with "2026" |
 
 ## 🚀 Quick Start
 
