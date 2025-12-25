@@ -1,0 +1,5 @@
+# Christmas & New Year Magical Animation
+# Dependencies
+
+pygame>=2.5.0
+
